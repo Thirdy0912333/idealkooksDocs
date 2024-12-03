@@ -1,6 +1,6 @@
-TERMS OF SERVICE
+# TERMS OF SERVICE
 
-Last updated October 15, 2024
+**Last updated October 15, 2024**
 
 
 
